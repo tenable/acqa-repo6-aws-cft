@@ -1,0 +1,25 @@
+{
+  "cftConf": [
+    {
+      "id": "https://bitbucket.org/accurics/acqa-repo6-aws-cft.git",
+      "templateFileName": "acqa-repo6-aws-cft-code-pipeline.yml",
+      "paramsFileName": "",
+      "stackID": "arn:aws:cloudformation:ca-central-1:641885301384:stack/acqa-test-stack2/5cf90ec0-f8fa-11ea-9922-0a4a06b815f2",
+      "stackName": "acqa-test-stack2"
+    },
+    {
+      "id": "https://bitbucket.org/accurics/acqa-repo6-aws-cft.git",
+      "templateFileName": "aws-repo6-aws-cft-with-params.json",
+      "paramsFileName": "aws-repo6-aws-cft-params-file.json",
+      "stackID": "arn:aws:cloudformation:ca-central-1:641885301384:stack/acqa-test-stack2/5cf90ec0-f8fa-11ea-9922-0a4a06b815f2",
+      "stackName": "acqa-test-stack2"
+    },
+    {
+      "id": "https://bitbucket.org/accurics/acqa-repo6-aws-cft.git",
+      "templateFileName": "aws-repo6-aws-cft-without-params.json",
+      "paramsFileName": "",
+      "stackID": "arn:aws:cloudformation:ca-central-1:641885301384:stack/acqa-test-stack2/5cf90ec0-f8fa-11ea-9922-0a4a06b815f2",
+      "stackName": "acqa-test-stack2"
+    }
+  ]
+}

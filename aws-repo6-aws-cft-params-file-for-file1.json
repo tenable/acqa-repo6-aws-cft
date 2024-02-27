@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "MySecurityGroupNameTag",
+    "ParameterValue": "acqaCftTestStack1SG1"
+  },
+  {
+    "ParameterKey": "MyInstanceNameTag",
+    "ParameterValue": "acqaCftTestStack1Inst1"
+  }
+]
